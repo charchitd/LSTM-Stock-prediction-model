@@ -1,7 +1,7 @@
 # LSTM-Stock-prediction-model
 Motivation to apply machine learning on the dataset of Americans_Airlines stock prices [AAL], and generate the model of RNN using LSTM that gives out the output in result,maintaining as: 
 
-##link for Api_key: https://www.alphavantage.co/support/#api-key
+## link for Api_key: https://www.alphavantage.co/support/#api-key
 
 ### Importing Dataset Directly from American Airlines Directory:
 
